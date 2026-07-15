@@ -4,7 +4,6 @@
 
 ---
 
-<!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
 <div align="center">
     
