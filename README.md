@@ -6,10 +6,8 @@
 
 # 🐍 Contribution Snake
 <div align="center">
-    
-  ![snake gif](https://github.com/pratibhasaini2005/pratibhasaini2005/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/pratibhasaini2005/pratibhasaini2005/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
-
 ---
 
 
