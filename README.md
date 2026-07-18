@@ -8,13 +8,14 @@
 <div align="center">
   <img src="https://github.com/pratibhasaini2005/pratibhasaini2005/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
+
 ---
 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=pratibhasaini2005&show_icons=true&theme=gruvbox_light&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=pratibhasaini2005&theme=gruvbox_light&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=pratibhasaini2005&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=pratibhasaini2005&theme=rose&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -22,7 +23,7 @@
 # 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratibhasaini2005&theme=dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratibhasaini2005&theme=rose&hide_border=true&area=true"/>
 </p>
 
 ---
