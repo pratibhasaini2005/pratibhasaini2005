@@ -12,7 +12,8 @@
 
 A modern **Expense Tracker** built with **React.js** to help users manage their income and expenses efficiently. It provides real-time balance updates, transaction management, and a clean, responsive interface.
 
-**🔗 Repository:** [Expense Tracker](https://github.com/your-username/expense-tracker)
+**🔗 Repository:** [Expense Tracker](https://github.com/pratibhasaini2005/expense-tracker)<br>
+**🔗 Live Demo:** (https://expense-tracker-client-ljs9.onrender.com)
 
 **⚙️ Tech Stack:** React.js • JavaScript • CSS • Local Storage
 
