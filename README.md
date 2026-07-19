@@ -1,7 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=220&section=header&text=Pratibha%20Saini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,git,github,vscode,idea)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ IDEA" />
+</p>
 
 ---
 
