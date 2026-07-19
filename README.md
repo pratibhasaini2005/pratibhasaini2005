@@ -5,6 +5,21 @@
 
 ---
 
+
+# 🧩 Featured Projects
+
+## 💰 Expense Tracker
+
+A modern **Expense Tracker** built with **React.js** to help users manage their income and expenses efficiently. It provides real-time balance updates, transaction management, and a clean, responsive interface.
+
+**🔗 Repository:** [Expense Tracker](https://github.com/your-username/expense-tracker)
+
+**⚙️ Tech Stack:** React.js • JavaScript • CSS • Local Storage
+
+
+---
+
+
 # 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/pratibhasaini2005/pratibhasaini2005/blob/output/github-snake.svg" alt="Snake Animation" />
