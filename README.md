@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=220&section=header&text=Pratibha%20Saini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E75480&height=220&section=header&text=Pratibha%20Saini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
 
 # 💻 Tech Stack:
 <p align="left">
@@ -59,4 +59,4 @@ A modern **Expense Tracker** built with **React.js** to help users manage their 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E75480&height=120&section=footer" width="100%"/>
